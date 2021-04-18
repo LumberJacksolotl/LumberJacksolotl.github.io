@@ -5,5 +5,8 @@ export let names = {
     Attacksolotl:"Attacks people",
     Askolotl:"asks questions",
     Hacksolotl:"hacker",
-    Saxolotl:"plays the saxophone"
+    Saxolotl:"plays the saxophone",
+    Axeolotl:"Favorite tool of LumberJacksolotl",
+    Talolotl:"pays taxes",
+    Laxolotl:"lazy"
 }
