@@ -10,7 +10,7 @@ function display(n) {
     let currentDescription = document.createTextNode(names[SortedNamesArray[n]])
 
     displayDiv.appendChild(currentName)
-    displayDiv.appendChild(br) //TODO: 
+    displayDiv.appendChild(br)
     displayDiv.appendChild(currentDescription)
 }
 
