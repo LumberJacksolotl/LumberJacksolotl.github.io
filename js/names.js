@@ -8,5 +8,8 @@ export let names = {
     Saxolotl:"plays the saxophone",
     Axeolotl:"Favorite tool of LumberJacksolotl",
     Talolotl:"pays taxes",
-    Laxolotl:"lazy"
+    Laxolotl:"lazy",
+    Collapsolotl:"collapses",
+    Quacksolotl:"🦆",
+    Whacksolotl:"ready to whack you"
 }
