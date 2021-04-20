@@ -11,5 +11,7 @@ export let names = {
     Laxolotl:"lazy",
     Collapsolotl:"collapses",
     Quacksolotl:"🦆",
-    Whacksolotl:"ready to whack you"
+    Whacksolotl:"ready to whack you",
+    Syntaxolotl:"ERROR: INCORRECT SYNTAX",
+    Horsebacksolotl:"Rides a horse",
 }
