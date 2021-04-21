@@ -7,11 +7,12 @@ export let names = {
     Hacksolotl:"hacker",
     Saxolotl:"plays the saxophone",
     Axeolotl:"Favorite tool of LumberJacksolotl",
-    Talolotl:"pays taxes",
+    Taxlolotl:"pays taxes",
     Laxolotl:"lazy",
     Collapsolotl:"collapses",
     Quacksolotl:"🦆",
     Whacksolotl:"ready to whack you",
     Syntaxolotl:"ERROR: INCORRECT SYNTAX",
     Horsebacksolotl:"Rides a horse",
+    Kayaksolotl:"kayaks... Even though it can swim 🤔"
 }
