@@ -18,4 +18,5 @@ export let names = {
     Multitasksolotl:"Writing this while playing poker and watching TV",
     Kayaksolotl:"kayaks... Even though it can swim 🤔",
     Pickaxolotl:"mines diamonds",
+    Paybacksolotl:"Ready to get revenge",
 }
