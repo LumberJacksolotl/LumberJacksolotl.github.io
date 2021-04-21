@@ -16,5 +16,6 @@ export let names = {
     Horsebacksolotl:"Rides a horse",
     Facemaskolotl:"back off, virus!!!!!!!",
     Multitasksolotl:"Writing this while playing poker and watching TV",
-    Kayaksolotl:"kayaks... Even though it can swim 🤔"
+    Kayaksolotl:"kayaks... Even though it can swim 🤔",
+    Pickaxolotl:"mines diamonds",
 }
