@@ -1,7 +1,7 @@
 export let names = {
-    relaxolotl:'loves to relax',
-    lumberjacksolotl:'Cuts down trees',
-    maxolotl:"takes things TO THE MAX!!!!!",
+    Relaxolotl:'loves to relax',
+    Lumberjacksolotl:'Cuts down trees',
+    Maxolotl:"takes things TO THE MAX!!!!!",
     Attacksolotl:"Attacks people",
     Askolotl:"asks questions",
     Hacksolotl:"hacker",
@@ -19,4 +19,6 @@ export let names = {
     Kayaksolotl:"kayaks... Even though it can swim 🤔",
     Pickaxolotl:"mines diamonds",
     Paybacksolotl:"Ready to get revenge",
+    Snacksolotl:"eat him whenever",
+    AntiTaxolotl:"mortal enemy of Taxolotl",
 }
