@@ -1,6 +1,7 @@
 import { names } from './names.js'
 
 let SortedNamesArray = Object.keys(names).sort()
+//Sorts list alphabetically
 const displayDiv = document.getElementById('List')
 
 function display(index) {
