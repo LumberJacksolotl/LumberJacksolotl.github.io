@@ -22,4 +22,5 @@ export let names = {
     Snacksolotl:"eat him whenever",
     AntiTaxolotl:"mortal enemy of Taxolotl",
     AntiVaxolotl:"Does all her important medical research on Facebook",
+    Jetpacksolotl:"flies a jetpack"
 }
